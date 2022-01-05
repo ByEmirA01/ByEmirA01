@@ -1,25 +1,28 @@
 # Merhaba👋, ben Emir Aydın
+
 #### İstanbul Işık Üniversitesi
+
 Merhaba ben Türkiye'den Emir , İstanbul'da öğrenciyim ve bilgisayar brogramcılığı bölümü okuyorum. Yeni bir programlama dil öğrenmekten gerçekten çok hoşlanırım.
 
-<img src="https://github.com/ByEmirA01/ByEmirA01/blob/main/developers-gif-showcase.gif" width="256" />
+<img src="./developers-gif-showcase.gif" width="256" />
 
-### Skills 💻:
-* C# 
+### Skills 💻
+
+* C#
 * C# FORM  
-* C++ 
-* HTML 
-* CSS 
-* SQL 
+* C++
+* HTML
+* CSS
+* SQL
 * PYTHON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByEmirA01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=ByEmirA01&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 Şu anda projem üzerinde çalışıyorum
-- 🌱 Şu anda [C++](https://en.wikipedia.org/wiki/C%2B%2B) öğreniyorum 
-- 📫 Bana nasıl ulaşabilirsiniz: emir.aydin9099@gmail.com
+* 🔭 Şu anda projem üzerinde çalışıyorum
+* 🌱 Şu anda [C++](https://en.wikipedia.org/wiki/C%2B%2B) öğreniyorum
+* 📫 Bana nasıl ulaşabilirsiniz: emir.aydin9099@gmail.com
 
 ## Sosyal Medya
 
