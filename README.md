@@ -2,6 +2,8 @@
 #### İstanbul Işık Üniversitesi
 Merhaba ben Türkiye'den Emir , İstanbul'da öğrenciyim ve bilgisayar brogramcılığı bölümü okuyorum. Yeni bir programlama dil öğrenmekten gerçekten çok hoşlanırım.
 
+<img src="https://github.com/ByEmirA01/ByEmirA01/blob/master/developers-gif-showcase.gif" width="256" />
+
 ### Skills 💻:
 * C# 
 * C# FORM  
