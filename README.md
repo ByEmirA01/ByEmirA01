@@ -6,7 +6,7 @@ Merhaba ben Türkiye'den Emir , İstanbul'da öğrenciyim ve bilgisayar brogramc
 
 <img src="./developers-gif-showcase.gif" width="256" />
 
-### Skills 💻
+### Skills 💻:
 
 * C#
 * C# FORM  
