@@ -10,7 +10,7 @@ Merhaba ben Türkiye'den Emir , İstanbul'da öğrenciyim ve bilgisayar brogramc
 
 * C#
 * C# FORM  
-* C++
+* C
 * HTML
 * CSS
 * SQL
@@ -21,7 +21,7 @@ Merhaba ben Türkiye'den Emir , İstanbul'da öğrenciyim ve bilgisayar brogramc
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=ByEmirA01&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🔭 Şu anda projem üzerinde çalışıyorum
-* 🌱 Şu anda [C++](https://en.wikipedia.org/wiki/C%2B%2B) öğreniyorum
+* 🌱 Şu anda [C](https://tr.wikipedia.org/wiki/C_(programlama_dili)) öğreniyorum
 * 📫 Bana nasıl ulaşabilirsiniz: emir.aydin9099@gmail.com
 
 ## Sosyal Medya
