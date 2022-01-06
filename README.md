@@ -26,12 +26,24 @@ Merhaba ben Türkiye'den Emir , İstanbul'da öğrenciyim ve bilgisayar brogramc
 
 ## Sosyal Medya
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'> [emir.aydin9099](https://www.instagram.com/emir.aydin9099/)
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ByEmirA01" height="20" width="20" /> [emir.aydin9099](https://www.instagram.com/emir.aydin9099/)
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'> [emir aydın](https://www.linkedin.com/in/emir-aydın-06363b197/)
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ByEmirA01" height="20"/> [emir aydın](https://www.linkedin.com/in/emir-aydın-06363b197/)
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'> [emir aydın](https://stackoverflow.com/users/17737685/emir-aydın)
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ByEmirA01" height="20" width="20" /> [emir aydın](https://stackoverflow.com/users/17737685/emir-aydın)
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'> [emir aydın](https://www.youtube.com/channel/UCa3uEsxsySP3l9UON_I8g6g)
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ByEmirA01" height="20"/> [emir aydın](https://www.youtube.com/channel/UCa3uEsxsySP3l9UON_I8g6g)
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='20'> [ByEmirA](https://www.reddit.com/user/Alternative_Ad_7024)
+
+
+
+
+
+
+
+
+
+
+ 
+
